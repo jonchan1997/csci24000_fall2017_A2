@@ -1,0 +1,3 @@
+The purpose of this is to represent a prediction of each players roll where certian players have a greater chance of getting a certian card.
+I plan on using probility methods taught in recitation to implement what I want.
+My main goal is to have a makefile that compiles the necessary parts of the program as well as making it display a gui similar to the one seen on the assignment page.
